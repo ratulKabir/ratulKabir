@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ratul
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning about autonomous driving
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on "active inference for behavior prediction and planning"
 - 📫 How to reach me: drop an email :)
 
 <!---
