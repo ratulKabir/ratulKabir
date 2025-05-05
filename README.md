@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raihan Kabir Ratul
 
-I'm an AI Engineer passionate about solving real-world problems with deep learning, reinforcement learning, and computer vision. Here are some of the projects I've worked on recently:
+I'm an AI Engineer passionate about solving real-world problems with AI. Here are some of the projects I've worked on recently:
 
 ---
 
