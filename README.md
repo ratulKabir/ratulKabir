@@ -8,7 +8,7 @@ I'm an AI Engineer passionate about solving real-world problems with AI. Here ar
 Creating the LeRobot dataset using monocular camera images and ground truth measurements, and training SmolVLA on the created dataset.
 
 **Result:**  
-![Demo](media/carla/output_video_corrected.gif)
+![Demo](https://github.com/ratulKabir/lerobot/blob/main/media/carla/output_video_corrected.gif)
 
 ---
 
