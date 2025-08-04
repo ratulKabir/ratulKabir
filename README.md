@@ -4,6 +4,14 @@ I'm an AI Engineer passionate about solving real-world problems with AI. Here ar
 
 ---
 
+### 🎯 [Creating custom LeRobot data from Carla data and training using Smolvla](https://github.com/ratulKabir/lerobot/blob/main/README_CARLA.md)
+Creating the LeRobot dataset using monocular camera images and ground truth measurements, and training SmolVLA on the created dataset.
+
+**Result:**  
+![Demo](media/carla/output_video_corrected.gif)
+
+---
+
 ### 🎯 [Vision-Language Model Case Study](https://github.com/ratulKabir/VLM_case_study)
 A study on using vision-language models for understanding traffic scenarios in autonomous driving. This project explores direction prediction from multimodal inputs.
 
@@ -13,7 +21,7 @@ A study on using vision-language models for understanding traffic scenarios in a
 ---
 
 ### 🚗 [Reinforcement Learning in CARLA](https://github.com/ratulKabir/carla_rl/tree/folder_refactor)
-Trained an RL agent in CARLA simulator to navigate realistic driving environments. Focused on behavior learning from traffic scenarios.
+Trained an RL agent in the CARLA simulator to navigate realistic driving environments. Focused on behavior learning from traffic scenarios.
 
 **Result:**  
 ![CARLA RL Result](https://github.com/ratulKabir/carla_rl/blob/folder_refactor/1.1_55k_15_0%20(1)%20(1).gif)
