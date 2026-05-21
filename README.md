@@ -1,6 +1,18 @@
 # 👋 Hi, I'm Raihan Kabir Ratul
 
-I'm an AI Engineer passionate about solving real-world problems with AI. Here are some of the projects I've worked on recently:
+Generalist AI Robotics Engineer with 5.5+ years of experience with 4+ years in leveraging AI for autonomous shuttles and quadrupeds. From concept to deployment through simulation, I’ve worked on full-robot-software-stack for real-time perception, localization and safety-critical planning and a bit on the Hardware side. Here are some of the projects I've worked:
+
+---
+
+### 🎯 [AprilTag-Based Autonomous Following on Deep Robotics Lite3 Quadruped]()
+Developed a real-time visual tracking and following system for the Lite3 quadruped robot using AprilTag fiducial markers. Implemented camera-based tag detection and relative pose estimation to enable autonomous target following and dynamic motion control as a rapid weekend robotics prototype.
+
+**Result:**  
+
+<a href="https://www.youtube.com/shorts/tghWnW9uJ1I">
+  <img src="media/lite3_tn.png" alt="Watch the demo" width="800">
+</a>
+
 
 ---
 
@@ -12,11 +24,13 @@ Creating the LeRobot dataset using monocular camera images and ground truth meas
 
 ---
 
-### 🎯 [Vision-Language Model Case Study](https://github.com/ratulKabir/VLM_case_study)
-A study on using vision-language models for understanding traffic scenarios in autonomous driving. This project explores direction prediction from multimodal inputs.
+### 🔍 [Generate Rerun dataset using UR10e-Robotiq using Genesis-Sim](https://github.com/ratulKabir/Generate-rerun-dataset-from-UR10e-Robotiq-using-Genesis-Sim)
+robotics simulation project that generates multimodal manipulation datasets using a UR10e robot arm with a Robotiq gripper inside the Genesis Simulator. The pipeline supports parallel simulation, trajectory generation, and integration with Rerun for visualization and dataset logging, making it useful for robot learning and embodied AI workflows.
 
 **Result:**  
-![VLM Output](https://github.com/ratulKabir/VLM_case_study/blob/main/results/frame_1706_output_plot_direction.jpg)
+<a href="https://youtu.be/kLA6LqpGMzE">
+  <img src="media/demo_multi_env.png" alt="Watch the demo" width="800">
+</a>
 
 ---
 
@@ -25,14 +39,6 @@ Trained an RL agent in the CARLA simulator to navigate realistic driving environ
 
 **Result:**  
 ![CARLA RL Result](https://github.com/ratulKabir/carla_rl/blob/folder_refactor/1.1_55k_15_0%20(1)%20(1).gif)
-
----
-
-### 🔍 [Natural Language to SQL](https://github.com/ratulKabir/natural_languge2SQL)
-Built a pipeline that translates natural language questions into SQL queries. Useful for making databases accessible to non-technical users.
-
-**Result:**  
-![SQL Output](https://github.com/ratulKabir/natural_languge2SQL/blob/main/sql.png)
 
 ---
 
